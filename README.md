@@ -2,17 +2,17 @@
 Breakdown of High vs. Low grossing Disney Movies
 
 ## Team Members
-Matt Weiper
-Hema Vyas
+*Matt Weiper
+*Hema Vyas
 
 ## Project Description/Outline
 What factors high-grossing Disney movies have that low-grossing Disney movies do not. Our goal is to find out what the common theme is between the high-grossing movies and how they differ from the low-grossing.
 
 ## Research Questions to Answer
-Is genre a factor into low vs. high?
-Is rating a factor into low vs. high?
-Is director a factor into low vs. high?
-Is release date a factor into low vs. high?
+*Is genre a factor into low vs. high?
+*Is rating a factor into low vs. high?
+*Is director a factor into low vs. high?
+*Is release date a factor into low vs. high?
 
 These are determinants we want to dive into and see if there is any common trend amongst the highest grossing Disney movies and the lowest grossing Disney movies
 ## Datasets to Be Used
