@@ -1,37 +1,25 @@
-# butler-groupB-project1
+## Project Title
+Breakdown of High vs. Low grossing Disney Movies
 
-## 4 Select Cities population change from 2000-2019
-
-## Group B- Hema and Matt W
+## Team Members
+Matt Weiper
+Hema Vyas
 
 ## Project Description/Outline
-Our goal is to find what changes have attributed to population change from 2000 to 2019.  
-We have chosen 3 cities that have shown a great decrease and 3 that have shown a great increase in population.  
-We chose the following cities based on the percent change from 2000-2019 population.
-
-We want to look at the 
-
-Selected Cities- 
-Detroit Michigan
-St louis , Missouri
-(3)Baltimore Maryland
-
-Austin TX
-Denver Colorado
-(3)Carmel IN
+What factors high-grossing Disney movies have that low-grossing Disney movies do not. Our goal is to find out what the common theme is between the high-grossing movies and how they differ from the low-grossing.
 
 ## Research Questions to Answer
-We would like to look at the change in taxes, retirement, income and cost of living for the selected cities, to determine if they had significance in population change.
+Is genre a factor into low vs. high?
+Is rating a factor into low vs. high?
+Is director a factor into low vs. high?
+Is release date a factor into low vs. high?
 
-## Data sets to be used
-Census data for 2000 and 2019
-https://www2.census.gov/library/publications/2001/compendia/ccdb00/tabC1.pdf
-https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html
+These are determinants we want to dive into and see if there is any common trend amongst the highest grossing Disney movies and the lowest grossing Disney movies
+## Datasets to Be Used
 
-## Tasks
-What will be needed to interpret the data.
-Collect
-Clean
-Merge
-Plots- line , scatter, bar (before/after), regression lines
+https://www.kaggle.com/rashikrahmanpritom/disney-movies-19372016-total-gross
+*We will need to find the directors of films and merge them to this dataframe (also can manually put them in a column)
+
+## Rough Breakdown of Tasks
+First, we will need to collect the datasets needed to answer above questions. Then we will interpret and clean data, leaving only information we are needing for study. Next, we will merge datasets and create plots to show specific answers to questions (e.g. top 5 movies genres vs. lower 5, etc.). Lastly, we will write a summary with our findings. 
 
