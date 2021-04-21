@@ -34,4 +34,4 @@ Collect
 Clean
 Merge
 Plots- line , scatter, bar (before/after), regression lines
-![image](https://user-images.githubusercontent.com/80181938/115483121-2b0e2d00-a21e-11eb-8816-f586c2f8cbca.png)
+
