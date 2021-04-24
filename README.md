@@ -26,3 +26,6 @@ Then we will interpret and clean data, leaving only information we are needing f
 Next, we will merge datasets and create plots to show specific answers to questions (e.g. top 5 movies genres vs. lower 5, etc.).   
 Lastly, we will write a summary with our findings. 
 
+
+Site referenced for image
+https://d23.com/walt-disney-archives/
