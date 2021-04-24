@@ -1,6 +1,8 @@
 ![Image of Mickey Mouse- https://d23.com/walt-disney-archives/](Mickey_Image.png)
 
 ## Project Title
+Disney's Next Blockbuster Movie
+
 Breakdown of High vs. Low grossing Disney Movies
 
 ## Team Members
@@ -8,6 +10,9 @@ Matt Weiper
 Hema Vyas
 
 ## Project Description/Outline
+
+The Magnificent Mouse!  The Grand Empire that is Disney has produced hundreds of movies.  Our goal is to find out if we can predict the next big movie blockbuster genre and rating that will come out for Disney.  
+
 What factors high-grossing Disney movies have that low-grossing Disney movies do not. Our goal is to find out what the common theme is between the high-grossing movies and how they differ from the low-grossing.
 
 ## Research Questions to Answer
