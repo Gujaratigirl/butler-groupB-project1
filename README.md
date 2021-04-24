@@ -1,3 +1,5 @@
+![Image of Mickey Mouse- https://d23.com/walt-disney-archives/](Mickey_Image.png)
+
 ## Project Title
 Breakdown of High vs. Low grossing Disney Movies
 
