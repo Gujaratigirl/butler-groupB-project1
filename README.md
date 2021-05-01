@@ -32,10 +32,10 @@ Lastly, we will write a summary with our findings.
 
 
 ## Files to reference in repository-
-Disney_Project2.pptx-  PowerPoint. 
-Disney_Clean.ipynb- cleaned data/programming.   
-Disney.ipynb- data exploration/programming. 
-Disney_Summary.docx-  Summary in text form of analysis.  
+Disney_Project2.pptx-  PowerPoint.  
+Disney_Clean.ipynb- cleaned data/programming.    
+Disney.ipynb- data exploration/programming.  
+Disney_Summary.docx-  Summary in text form of analysis.   
 
 Site referenced for image
 https://d23.com/walt-disney-archives/
